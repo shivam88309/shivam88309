@@ -48,11 +48,11 @@
 ---
 
 ### 🏆 Key Certifications & Experience
-Data & Sustainability Intern** — 1M1B Green Internship (Batch 7) in partnership with AICTE & Salesforce
-Statistics for Data Science with Python — IBM
-Data Analysis with Python — IBM
-Fundamentals of NLP — DeepLearning.AI
-Data Warehouse Fundamentals — IBM
+* **Data & Sustainability Intern** — 1M1B Green Internship (Batch 7) in partnership with AICTE & Salesforce
+* **Statistics for Data Science with Python** — IBM
+* **Data Analysis with Python** — IBM
+* **Fundamentals of NLP** — DeepLearning.AI
+* **Data Warehouse Fundamentals** — IBM
 
 ---
 
