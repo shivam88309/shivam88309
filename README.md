@@ -38,9 +38,9 @@
   <tr>
     <td width="760">
       <b><a href="https://github.com/shivam88309">SmartFly AI - Flight Price Prediction Platform</a></b>[cite: 5]<br>
-      • Built a platform that checks live flight ticket prices and uses past data to predict future trends[cite: 5].<br>
-      • Connected a clean front-end UI design to a robust Node.js and Python backend system[cite: 5].<br>
-      <b>Tech Stack:</b> Python, Node.js, JavaScript, HTML, CSS[cite: 5]
+      • Built a platform that checks live flight ticket prices and uses past data to predict future trends.<br>
+      • Connected a clean front-end UI design to a robust Node.js and Python backend system.<br>
+      <b>Tech Stack:</b> Python, Node.js, JavaScript, HTML, CSS
     </td>
   </tr>
 </table>
