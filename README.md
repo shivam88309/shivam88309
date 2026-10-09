@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=220&section=header&text=Shivam%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontY=38&desc=Data%20Scientist%20|%20AI%20&%20ML%20Enthusiast&descSize=20&descColor=cyan" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=220&section=header&text=Shivam%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontY=38&desc=Data%20Scientist%20%20%20&%20%20Enthusiast&descSize=20&descColor=cyan" width="100%">
 
   <p>
     <a href="https://www.linkedin.com/in/shivam-patel-246b382a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
